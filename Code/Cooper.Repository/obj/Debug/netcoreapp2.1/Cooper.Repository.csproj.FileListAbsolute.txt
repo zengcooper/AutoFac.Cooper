@@ -1,0 +1,16 @@
+E:\code\coding\AutoFac\Repository\Cooper.Repository\obj\Debug\netcoreapp2.1\Cooper.Repository.csproj.CoreCompileInputs.cache
+E:\code\coding\AutoFac\Repository\Cooper.Repository\obj\Debug\netcoreapp2.1\Cooper.Repository.AssemblyInfoInputs.cache
+E:\code\coding\AutoFac\Repository\Cooper.Repository\obj\Debug\netcoreapp2.1\Cooper.Repository.AssemblyInfo.cs
+E:\code\coding\AutoFac\Repository\Cooper.Repository\bin\Debug\netcoreapp2.1\Cooper.Repository.deps.json
+E:\code\coding\AutoFac\Repository\Cooper.Repository\bin\Debug\netcoreapp2.1\Cooper.Repository.dll
+E:\code\coding\AutoFac\Repository\Cooper.Repository\bin\Debug\netcoreapp2.1\Cooper.Repository.pdb
+E:\code\coding\AutoFac\Repository\Cooper.Repository\obj\Debug\netcoreapp2.1\Cooper.Repository.dll
+E:\code\coding\AutoFac\Repository\Cooper.Repository\obj\Debug\netcoreapp2.1\Cooper.Repository.pdb
+E:\code\coding\AutoFac\Cooper.Repository\bin\Debug\netcoreapp2.1\Cooper.Repository.deps.json
+E:\code\coding\AutoFac\Cooper.Repository\bin\Debug\netcoreapp2.1\Cooper.Repository.dll
+E:\code\coding\AutoFac\Cooper.Repository\bin\Debug\netcoreapp2.1\Cooper.Repository.pdb
+E:\code\coding\AutoFac\Cooper.Repository\obj\Debug\netcoreapp2.1\Cooper.Repository.csproj.CoreCompileInputs.cache
+E:\code\coding\AutoFac\Cooper.Repository\obj\Debug\netcoreapp2.1\Cooper.Repository.AssemblyInfoInputs.cache
+E:\code\coding\AutoFac\Cooper.Repository\obj\Debug\netcoreapp2.1\Cooper.Repository.AssemblyInfo.cs
+E:\code\coding\AutoFac\Cooper.Repository\obj\Debug\netcoreapp2.1\Cooper.Repository.dll
+E:\code\coding\AutoFac\Cooper.Repository\obj\Debug\netcoreapp2.1\Cooper.Repository.pdb
